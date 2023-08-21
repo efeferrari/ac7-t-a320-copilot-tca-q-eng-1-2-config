@@ -8,7 +8,7 @@ Copy the file `Config/Input.ini` into `C:\Users\[YourUsername]\AppData\Local\BAN
 
 ## Notes
 1. If you don't have a Thrustmaster TCA Q-Eng 1&2 joystick, remove the `ProductName=TCA Q-Eng 1&2` section and set
-`Flight_Throttle=Slide1` on the `ProductName=T.A320 Copilot` section
+`Flight_Throttle=Slider1` on the `ProductName=T.A320 Copilot` section
 2. You can use the Hat Switch buttons to navigate over the game menus
 
 # Troublesooting
